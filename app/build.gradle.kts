@@ -114,7 +114,7 @@ dependencies {
     testImplementation("org.assertj:assertj-core:3.20.2")
 
     // MockWebServer for network testing
-    testImplementation("com.squareup.okhttp3:mock webserver:4.9.1")
+    testImplementation("com.squareup.okhttp3:mockwebserver:4.10.0")
 
     // Icon
     implementation("androidx.compose.material:material-icons-core:1.6.2")
